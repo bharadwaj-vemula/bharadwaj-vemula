@@ -75,28 +75,21 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
 | **Freelance Power Platform Consulting** | Building and enhancing Canvas Apps and approval/notification flows for remote clients | Power Apps, Power Automate, SharePoint, Dataverse | 🔨 Ongoing |
-| **[Microsoft Power Platform Repository](https://github.com/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM)** | Personal collection of Power Platform samples, solutions, and learning material | Power Apps, Power Automate, Dataverse | 🔨 Ongoing |
+| **[power-platform-solutions](https://github.com/bharadwaj-vemula/power-platform-solutions)** | End-to-end solutions with Dataverse, Model-Driven Apps, and flows | Dataverse, Model-Driven Apps, Power Automate | 🔨 In progress |
+| **[power-platform-alm-pipelines](https://github.com/bharadwaj-vemula/power-platform-alm-pipelines)** | ALM pipelines for Dev → Test → Prod deployment using GitHub Actions and PAC CLI | GitHub Actions, PAC CLI, Solutions | 🧪 Learning |
 | **Copilot Studio Exploration** | Building conversational agents and integrating them with Power Platform data | Copilot Studio, Power Automate, Dataverse | 🧪 Learning |
 
 ---
 
 ## ⭐ Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharadwaj-vemula&repo=MICROSOFT-POWER-PLATFORM&theme=tokyonight&hide_border=true" alt="MICROSOFT-POWER-PLATFORM" />
-      </a>
-    </td>
-    <td width="50%">
-      <!-- Pin another repo: replace REPO_NAME below -->
-      <a href="https://github.com/bharadwaj-vemula/REPO_NAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bharadwaj-vemula&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="Repo 2" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Repository | Description | Tech Stack |
+|---|---|---|
+| [**power-platform-solutions**](https://github.com/bharadwaj-vemula/power-platform-solutions) | End-to-end solutions with Dataverse, Model-Driven Apps, and flows | Dataverse, Model-Driven Apps, Power Automate |
+| [**power-apps-canvas-samples**](https://github.com/bharadwaj-vemula/power-apps-canvas-samples) | Canvas App samples with Power Fx patterns and reusable components | Power Apps, Power Fx, SharePoint |
+| [**power-automate-flow-patterns**](https://github.com/bharadwaj-vemula/power-automate-flow-patterns) | Reusable flow patterns: approvals, REST APIs, Forms-to-SharePoint | Power Automate, REST APIs, SharePoint |
+| [**power-platform-alm-pipelines**](https://github.com/bharadwaj-vemula/power-platform-alm-pipelines) | ALM pipelines for Power Platform using GitHub Actions and PAC CLI | GitHub Actions, PAC CLI, ALM |
+| [**power-platform-pcf-controls**](https://github.com/bharadwaj-vemula/power-platform-pcf-controls) | Custom PCF controls for Power Apps built with TypeScript | PCF, TypeScript, Node.js |
 
 ### 📌 Project Highlights
 
