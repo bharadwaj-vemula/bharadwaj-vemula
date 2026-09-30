@@ -148,25 +148,13 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 
 | Contribution | Description | Link |
 |---|---|---|
-| **MICROSOFT-POWER-PLATFORM** | Public repository of Power Platform samples and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM) |
-| [Community contribution] | [e.g. PR to PowerApps-Samples or a PnP repo] | [PR link] |
-
+| **power-platform-solutions** | Public repository of Power Platform solutions and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-platform-solutions.git) 
+| **power-apps-canvas-samples** | Public repository of Power apps canvas samples and learning artifacts | [View repo] (https://github.com/bharadwaj-vemula/power-apps-canvas-samples.git)
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bharadwaj-vemula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj-vemula&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bharadwaj-vemula&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwaj-vemula&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
+<p align="center"> <img src="https://img.shields.io/github/followers/bharadwaj-vemula?style=for-the-badge&logo=github&label=Followers" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last commit" /> <img src="https://img.shields.io/github/repo-size/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM?style=for-the-badge&logo=github&label=Repo%20Size" alt="Repo size" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=bharadwaj-vemula&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
 
 ## 🐍 Contribution Snake
 
