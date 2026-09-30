@@ -1,44 +1,55 @@
-<h1 align="center">Hi, I'm Bharadwaj Vemula 👋</h1>
-<h3 align="center">Microsoft Power Platform Developer | Turning Business Processes into Apps & Automated Workflows</h3>
-
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  Turning business requirements into scalable, user-friendly apps and automated workflows on Microsoft Power Platform.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:742774&height=190&section=header&text=Bharadwaj%20Vemula&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Microsoft%20Power%20Platform%20Developer&descSize=18&descAlignY=58" alt="Bharadwaj Vemula: Microsoft Power Platform Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bharadwaj-vemula&label=Profile%20Views&color=742774&style=flat" alt="Profile views" />
-  <a href="https://github.com/bharadwaj-vemula?tab=followers"><img src="https://img.shields.io/github/followers/bharadwaj-vemula?style=flat&logo=github&label=Followers" alt="Followers" /></a>
+  <a href="https://github.com/bharadwaj-vemula">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=742774&center=true&vCenter=true&width=720&height=40&lines=Turning+Business+Processes+into+Apps+%26+Automated+Workflows;Canvas+%26+Model-Driven+Apps+%7C+Power+Automate+%7C+Dataverse;SharePoint+%7C+Copilot+Studio+%7C+Power+BI+%7C+ALM;Open+to+Onsite%2C+Hybrid+and+Remote+roles" alt="Typing animation: Power Platform skills" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/bharadwajvemula"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://forms.gle/vjanc6YPXZSVoFii7"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Add these when you have them:
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  -->
+  <a href="https://forms.gle/vjanc6YPXZSVoFii7"><img src="https://img.shields.io/badge/Contact_Me-742774?style=for-the-badge&logo=googleforms&logoColor=white" alt="Contact form" /></a>
+  <a href="https://github.com/bharadwaj-vemula?tab=followers"><img src="https://img.shields.io/github/followers/bharadwaj-vemula?style=for-the-badge&logo=github&label=Followers&color=181717" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=bharadwaj-vemula&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+
+<!-- Add when available:
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+-->
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Power Platform Developer and Consultant ** designing, building, and deploying business applications and automation solutions for enterprise clients, including work at **Wipro** and as an independent consultant.
+I'm a **Power Platform Developer and Consultant** who designs, builds, and deploys business applications and automation solutions for enterprise clients, through my work at **Wipro** and as an independent consultant.
 
-- 🧩 Build **Canvas Apps, Model-Driven Apps, Power Pages portals, and Copilot Studio** solutions on top of **Dataverse** and **SharePoint Online**
-- ⚙️ Automate approvals, notifications, and data flows with **Power Automate** (cloud, instant, and scheduled flows, REST API and custom connector integrations)
-- 🏗️ Experienced in **Dataverse table and relationship design, business rules, security roles**, and **ALM** (solutions, connection references, environment variables, Dev → Test → Prod)
+- 🧩 Build **Canvas Apps, Model-Driven Apps, Power Pages portals, and Copilot Studio** solutions on **Dataverse** and **SharePoint Online**
+- ⚙️ Automate approvals, notifications, and data flows with **Power Automate**: cloud, instant, and scheduled flows, REST APIs, and custom connectors
+- 🏗️ Experienced in **Dataverse modeling, business rules, security roles**, and **ALM** (solutions, connection references, environment variables, Dev → Test → Prod)
 - 🔗 Integrate solutions with **Microsoft Teams, Outlook, SQL Server, OneDrive, Microsoft Forms, and Microsoft 365**
-- 📊 Deliver reporting with **Power BI**, plus working knowledge of AWS QuickSight and Tableau
-- 🤝 Comfortable in requirement workshops, business process mapping, solution design, testing, deployment, and post-go-live support
+- 📊 Deliver reporting with **Power BI**, with working knowledge of AWS QuickSight and Tableau
+- 🤝 Comfortable leading requirement workshops, process mapping, solution design, testing, deployment, and post-go-live support
 
-> 💼 **Open to:** Power Platform Developer / Consultant roles (full-time, contract, or Onsite/Hybrid/remote) | 📍 **Based in:** India
+### ⚡ At a Glance
+
+| | |
+|---|---|
+| 🎯 **Role** | Power Platform Developer & Consultant |
+| 🏢 **Experience** | Wipro Ltd · Freelance Power Platform Consultant |
+| 🧰 **Core Stack** | Power Apps · Power Automate · Dataverse · SharePoint · Copilot Studio · Power BI |
+| 🎓 **Education** | B.Tech in Computer Science & Engineering, JNTU Hyderabad |
+| 📍 **Location** | India |
+| 🤝 **Open to** | Full-time · Contract · Onsite · Hybrid · Remote |
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### Microsoft Power Platform
+**Microsoft Power Platform**
+
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -47,7 +58,8 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 ![Power Pages](https://img.shields.io/badge/Power_Pages-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Fx](https://img.shields.io/badge/Power_Fx-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### Microsoft 365 & Integration
+**Microsoft 365 & Integration**
+
 ![SharePoint](https://img.shields.io/badge/SharePoint_Online-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
@@ -55,18 +67,38 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 ![Microsoft Forms](https://img.shields.io/badge/Forms-008272?style=for-the-badge&logo=microsoft&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Data & Business Intelligence
+**Data & Business Intelligence**
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![AWS QuickSight](https://img.shields.io/badge/AWS_QuickSight-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau_(Basic)-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Delivery & Tools
+**Delivery & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Core Competencies
-`Canvas App Development` · `Model-Driven App Development` · `Power Pages (Portals)` · `Power Fx` · `Power Automate Cloud Flows` · `Approval Workflows` · `Dataverse Data Modeling` · `Business Rules & Security Roles` · `Custom Connectors` · `REST API Integration` · `SharePoint Online Integration` · `Microsoft 365 Integration` · `Copilot Studio` · `Power BI Reporting` · `RPA` · `Application Lifecycle Management (ALM)` · `Solution Management` · `Environment & Security Design` · `Requirement Gathering` · `Business Process Mapping` · `Solution Design` · `Performance Optimization` · `Application Troubleshooting` · `Post-Deployment Support`
+### 🧠 Core Competencies
+
+| Area | Competencies |
+|---|---|
+| **App Development** | `Canvas Apps` · `Model-Driven Apps` · `Power Pages (Portals)` · `Power Fx` · `Copilot Studio` |
+| **Automation** | `Power Automate Cloud Flows` · `Approval Workflows` · `Custom Connectors` · `REST API Integration` · `RPA` |
+| **Data & Integration** | `Dataverse Data Modeling` · `Business Rules & Security Roles` · `SharePoint Online` · `Microsoft 365` · `Power BI Reporting` |
+| **ALM & Governance** | `Application Lifecycle Management (ALM)` · `Solution Management` · `Environment & Security Design` |
+| **Delivery** | `Requirement Gathering` · `Business Process Mapping` · `Solution Design` · `Performance Optimization` · `Application Troubleshooting` · `Post-Deployment Support` |
+
+---
+
+## 💼 Experience
+
+| Engagement | Role | Focus |
+|---|---|---|
+| **Freelance** | **Power Platform Consultant** (Remote) | Canvas Apps, approval and notification flows, SharePoint, Dataverse |
+| **Full-time** | **Project Engineer, Wipro Ltd** | Business process automation and SharePoint form automation on Power Platform |
+| **Internships** | **Web Developer (GoDaddy) · Salesforce Intern** | Web development and CRM fundamentals |
 
 ---
 
@@ -99,57 +131,65 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 - Integrated **Microsoft Forms → SharePoint** and **REST APIs** through Power Automate; configured a **custom connector for a Power BI workspace**
 - Configured business rules, charts, and dashboards in Model-Driven Apps; developed **Power Apps portals** and SharePoint visual web parts
 - Shared flows across same-tenant and cross-tenant users
-- 📈 Impact: [Automated 10+ business processes, reducing manual effort by approximately 15+ hours per week]
-
+- 📈 **Impact:** Automated **10+ business processes**, reducing manual effort by approximately **15+ hours per week**
 **📝 SharePoint Form Automation using Power Platform** · *Wipro Ltd*
 - Built **custom SharePoint list forms** in Power Apps and designed canvas apps on SharePoint data
 - Created **instant and scheduled flows** to automate data analysis tasks
 - Managed **user permissions**, restored app versions, and exported/imported apps across environments
-- 📈 Impact: [Reduced manual form-processing time by approximately 30% through Power Apps and Power Automate automation]
-
-**💼 Freelance Power Platform Consulting** · *present*
+- 📈 **Impact:** Reduced manual form-processing time by approximately **30%** through Power Apps and Power Automate automation
+**💼 Freelance Power Platform Consulting** · *Freelance*
 - Delivered Canvas Apps with reusable components and business validations
 - Automated approval and notification processes with cloud flows; managed SharePoint lists and libraries
 - Optimized solutions for performance and provided support across the full project lifecycle
+
 
 ---
 
 ## 🎓 Certifications
 
-<!-- Add your real certifications and credential links. Delete the rows you don't hold. -->
-
-| Certification | Issuer | Year | Credential |
+| Certification | Issuer | Year | Status |
 |---|---|---|---|
-| [Career Essentials in Generative AI]   | Microsoft | [2026] | [🔗 Verify]([CREDENTIAL_URL]) |
-| [Microsoft Certifications] | Microsoft | [Updating Soon...] | [🔗 Verify]([CREDENTIAL_URL]) |
+| **Career Essentials in Generative AI** | Microsoft | 2026 | ✅ Completed |
+| **PL-400: Power Platform Developer Associate** | Microsoft | n/a | 🎯 Ongoing |
+| **PL-200: Power Platform Functional Consultant** | Microsoft | n/a | 🎯 Ongoing |
 
-**🎯 Learning path:** Microsoft PL-400 (Power Platform Developer Associate) · PL-200 (Functional Consultant)
+<!-- When you earn a credential, add a link in the Status column, e.g. [✅ Verify](YOUR_CREDENTIAL_URL) -->
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 hands-on Power Platform delivery across enterprise and freelance engagements
-- 🏢 Worked as a **Project Engineer at Wipro**, delivering Power Apps, Power Automate, and SharePoint solutions across two major projects
+- 📈 Automated **10+ business processes**, saving approximately **15+ hours per week** of manual effort
+- ⏱️ Reduced manual form-processing time by approximately **30%** with Power Apps and Power Automate
+- 🏢 **Project Engineer at Wipro**, delivering Power Apps, Power Automate, and SharePoint solutions across two major projects
 - 🔁 Built **approval workflows, scheduled flows, and cross-tenant flow sharing** for business process automation
 - 🧱 Delivered end-to-end solutions across **Canvas, Model-Driven, and Portal** app types
-- 🌐 Broad early-career exposure: **Web Developer Intern at GoDaddy** and **Salesforce Intern**
+- 🚀 Hands-on Power Platform delivery across enterprise and freelance engagements
 - 🎓 B.Tech in Computer Science & Engineering, JNTU Hyderabad
+
 ---
 
 ## 🌍 Open Source & Community
 
 | Contribution | Description | Link |
 |---|---|---|
-| **power-platform-solutions** | Public repository of Power Platform solutions and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-platform-solutions.git) 
-| **power-apps-canvas-samples** | Public repository of Power apps canvas samples and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-apps-canvas-samples.git) 
+| **power-platform-solutions** | Public repository of Power Platform solutions and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-platform-solutions) |
+| **power-apps-canvas-samples** | Public repository of Power Apps canvas samples and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-apps-canvas-samples) |
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://img.shields.io/github/followers/bharadwaj-vemula?style=for-the-badge&logo=github&label=Followers" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last commit" /> <img src="https://img.shields.io/github/repo-size/bharadwaj-vemula/MICROSOFT-POWER-PLATFORM?style=for-the-badge&logo=github&label=Repo%20Size" alt="Repo size" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=bharadwaj-vemula&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bharadwaj-vemula&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/bharadwaj-vemula/power-platform-solutions?style=for-the-badge&logo=git&label=Last%20Commit&color=742774" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/bharadwaj-vemula/power-platform-solutions?style=for-the-badge&logo=github&label=Repo%20Size&color=0e75b6" alt="Repo size" />
+</p>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -165,10 +205,10 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 
 | | |
 |---|---|
-| 📧 **Submit Form** | [https://forms.gle/vjanc6YPXZSVoFii7) |
+| 📝 **Contact Form** | [Send me a message](https://forms.gle/vjanc6YPXZSVoFii7) |
 | 💼 **LinkedIn** | [linkedin.com/in/bharadwajvemula](https://linkedin.com/in/bharadwajvemula) |
 | 💻 **GitHub** | [github.com/bharadwaj-vemula](https://github.com/bharadwaj-vemula) |
-| 📍 **Location** | India · Open to Onsite,Hybrid,remote roles |
+| 📍 **Location** | India · Open to Onsite, Hybrid, and Remote roles |
 
 <p align="center">
   <b>💬 Let's connect! I'm open to Power Platform roles, freelance projects, and collaborations.</b>
