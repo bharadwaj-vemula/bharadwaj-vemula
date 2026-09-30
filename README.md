@@ -149,7 +149,7 @@ I'm a **Power Platform Developer and Consultant ** designing, building, and depl
 | Contribution | Description | Link |
 |---|---|---|
 | **power-platform-solutions** | Public repository of Power Platform solutions and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-platform-solutions.git) 
-| **power-apps-canvas-samples** | Public repository of Power apps canvas samples and learning artifacts | [View repo] (https://github.com/bharadwaj-vemula/power-apps-canvas-samples.git)
+| **power-apps-canvas-samples** | Public repository of Power apps canvas samples and learning artifacts | [View repo](https://github.com/bharadwaj-vemula/power-apps-canvas-samples.git) 
 ---
 
 ## 📊 GitHub Stats
