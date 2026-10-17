@@ -42,7 +42,7 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 | 🧰 **Core Stack** | Power Apps · Power Automate · Dataverse · SharePoint · Copilot Studio · Power BI |
 | 🎓 **Education** | B.Tech in Computer Science & Engineering, JNTU Hyderabad |
 | 📍 **Location** | India |
-| 🤝 **Open to** | Full-time · Contract · Onsite · Hybrid · Remote |
+| 🤝 **Open to** | Full-time  · Onsite · Hybrid · Remote |
 
 ---
 
@@ -150,6 +150,8 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 | Certification | Issuer | Year | Status |
 |---|---|---|---|
 | **Career Essentials in Generative AI** | Microsoft | 2026 | ✅ Completed |
+| **PL-900: Microsoft Certified: Power Platform Fundamentals** | Microsoft | 2026 | ✅ Completed |
+| **AZ-900: Microsoft Certified: Azure Fundamentals** | Microsoft | 2026 | ✅ Completed |
 | **PL-400: Power Platform Developer Associate** | Microsoft | n/a | 🎯 Ongoing |
 | **PL-200: Power Platform Functional Consultant** | Microsoft | n/a | 🎯 Ongoing |
 
