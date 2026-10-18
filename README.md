@@ -207,7 +207,7 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 
 | | |
 |---|---|
-| 📝 **Contact Form** | [Send me a message](https://forms.gle/vjanc6YPXZSVoFii7) |
+| 📝 **Contact** | [Send me a message](https://forms.gle/vjanc6YPXZSVoFii7) |
 | 💼 **LinkedIn** | [linkedin.com/in/bharadwajvemula](https://linkedin.com/in/bharadwajvemula) |
 | 💻 **GitHub** | [github.com/bharadwaj-vemula](https://github.com/bharadwaj-vemula) |
 | 📍 **Location** | India · Open to Onsite, Hybrid, and Remote roles |
