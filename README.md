@@ -152,6 +152,7 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 | **Career Essentials in Generative AI** | Microsoft | 2026 | ✅ Completed |
 | **PL-900: Microsoft Certified: Power Platform Fundamentals** | Microsoft | 2026 | ✅ Completed |
 | **AZ-900: Microsoft Certified: Azure Fundamentals** | Microsoft | 2026 | ✅ Completed |
+| **AB-410: Microsoft Certified: Intelligent Applications Builder Associate** | Microsoft | 2026 | 🎯 Ongoing( Updating Soon ) |
 | **PL-400: Power Platform Developer Associate** | Microsoft | n/a | 🎯 Ongoing |
 | **PL-200: Power Platform Functional Consultant** | Microsoft | n/a | 🎯 Ongoing |
 
