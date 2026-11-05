@@ -42,7 +42,7 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 | 🧰 **Core Stack** | Power Apps · Power Automate · Dataverse · SharePoint · Copilot Studio · Power BI |
 | 🎓 **Education** | B.Tech in Computer Science & Engineering, JNTU Hyderabad |
 | 📍 **Location** | India |
-| 🤝 **Open to** | Full-time  · Onsite · Hybrid · Remote |
+| 🤝 **Open to** | Full-time · Onsite · Hybrid · Remote |
 
 ---
 
@@ -132,16 +132,17 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 - Configured business rules, charts, and dashboards in Model-Driven Apps; developed **Power Apps portals** and SharePoint visual web parts
 - Shared flows across same-tenant and cross-tenant users
 - 📈 **Impact:** Automated **10+ business processes**, reducing manual effort by approximately **15+ hours per week**
+
 **📝 SharePoint Form Automation using Power Platform** · *Wipro Ltd*
 - Built **custom SharePoint list forms** in Power Apps and designed canvas apps on SharePoint data
 - Created **instant and scheduled flows** to automate data analysis tasks
 - Managed **user permissions**, restored app versions, and exported/imported apps across environments
 - 📈 **Impact:** Reduced manual form-processing time by approximately **30%** through Power Apps and Power Automate automation
+
 **💼 Freelance Power Platform Consulting** · *Freelance*
 - Delivered Canvas Apps with reusable components and business validations
 - Automated approval and notification processes with cloud flows; managed SharePoint lists and libraries
 - Optimized solutions for performance and provided support across the full project lifecycle
-
 
 ---
 
@@ -153,8 +154,7 @@ I'm a **Power Platform Developer and Consultant** who designs, builds, and deplo
 | **PL-900: Microsoft Certified: Power Platform Fundamentals** | Microsoft | 2026 | ✅ Completed |
 | **AZ-900: Microsoft Certified: Azure Fundamentals** | Microsoft | 2026 | ✅ Completed |
 | **AB-410: Microsoft Certified: Intelligent Applications Builder Associate** | Microsoft | 2026 | ✅ Completed |
-| **PL-400: Power Platform Developer Associate** | Microsoft | n/a | 🎯 Ongoing |
-| **PL-200: Power Platform Functional Consultant** PL-200>>>AB-410 | Microsoft | - | - |
+| **PL-400: Power Platform Developer Associate** | Microsoft | 2026 | 🎯 In progress |
 
 <!-- When you earn a credential, add a link in the Status column, e.g. [✅ Verify](YOUR_CREDENTIAL_URL) -->
 
